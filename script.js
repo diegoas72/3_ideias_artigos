@@ -12,5 +12,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
     closeButton.addEventListener('click', hideModal);
 
-    setTimeout(showModal, 3000); // Mostra o modal após 3 segundos (ajuste conforme necessário)
+    setTimeout(showModal, 1000); 
 });
